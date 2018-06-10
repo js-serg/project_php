@@ -1,0 +1,7 @@
+<form action = "mod_feedback.php ">
+	<input type = "text" name = "nm" /> Имя;
+	<input type = "text" name = "mail" /> e-mail;
+	<input type = "text" name = "nm" /> Сообщение
+	<input type = "button" name = "submit" /> Отправить
+<form>
+
